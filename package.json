@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_marcin_wozniak_exam",
+  "version": "1.0.0",
+  "description": "Javascript developer 2018/19 NodeJS exam app",
+  "main": "exam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcin Woźniak",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^12.0.5"
+  }
+}
